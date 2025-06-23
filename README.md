@@ -96,7 +96,7 @@ Example:
 If you use this code in your research, please consider citing it using the following BibTeX entry.
 
 ```bibtex
-@software{Author_SplitNN_2025,
+@software{guo2025splitnn,
   author       = {Guo, Jizhou},
   title        = {{SplitNN Pseudo-Distributed Training with PyTorch}},
   year         = {2025},
