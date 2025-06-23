@@ -92,6 +92,20 @@ Example:
 
 ---
 
+## 📄 Citation
+If you use this code in your research, please consider citing it using the following BibTeX entry.
+
+```bibtex
+@software{Author_SplitNN_2025,
+  author       = {Guo, Jizhou},
+  title        = {{SplitNN Pseudo-Distributed Training with PyTorch}},
+  year         = {2025},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.15721682},
+  url          = {https://doi.org/10.5281/zenodo.15721682}
+}
+```
+
 ## 💡 Notes & Tips
 
 - **Process Launching**  
